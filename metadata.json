@@ -1,0 +1,5 @@
+{
+  "name": "FIWOS: Federated Intelligent Workflow Optimization System",
+  "description": "A distributed AI system simulating large-scale federated learning, MLOps pipelines, and real-time workflow optimization.",
+  "requestFramePermissions": []
+}
